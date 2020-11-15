@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: root
+    password:
+    url: 'jdbc:mysql://localhost:3306/sample'
+    initialization-mode: always
+debug: on
